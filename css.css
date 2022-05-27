@@ -9,4 +9,5 @@
 	background-image: url(img/all.jpg);
 	 background-size: cover;
 	 background-size: 100%;
+	background-repeat: no-repeat;
 }
